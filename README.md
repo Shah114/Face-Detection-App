@@ -67,3 +67,6 @@ This application leverages advanced deep learning models to perform real-time fa
    git push origin feature-name
    ```
 5. Submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
