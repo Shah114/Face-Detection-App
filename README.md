@@ -51,3 +51,19 @@ This application leverages advanced deep learning models to perform real-time fa
 ## Files
 - `app.py`: The main Streamlit app script.
 - `requirements.txt`: List of dependencies required for the project.
+
+## Contributing
+1. Fork this repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Description of changes"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Submit a pull request.
