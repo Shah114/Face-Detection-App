@@ -11,3 +11,11 @@ This application leverages advanced deep learning models to perform real-time fa
 - Display the number of faces detected.
 - Show the image with bounding boxes drawn around detected faces.
 
+## Requirements
+- Python 3.8+
+- Libraries:
+  - `streamlit`
+  - `huggingface-hub`
+  - `ultralytics`
+  - `supervision`
+  - `pillow`
