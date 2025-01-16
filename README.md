@@ -23,7 +23,7 @@ This application leverages advanced deep learning models to perform real-time fa
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/face-detection-app.git
+   git clone https://github.com/Shah114/Face-Detection-App.git
    cd face-detection-app
    ```
 
