@@ -1,0 +1,5 @@
+streamlit
+huggingface-hub
+ultralytics
+supervision
+pillow
