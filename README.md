@@ -37,3 +37,13 @@ This application leverages advanced deep learning models to perform real-time fa
    ```bash
    pip install -r requirements.txt
    ```
+
+## Running the App
+1. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+2. Open the link provided in the terminal (e.g., `http://localhost:8501`) in your web browser.
+
+3. Upload an image to detect faces.
