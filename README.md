@@ -52,6 +52,20 @@ This application leverages advanced deep learning models to perform real-time fa
 - `app.py`: The main Streamlit app script.
 - `requirements.txt`: List of dependencies required for the project.
 
+## Demo
+
+Here are some examples of the Face Detection App in action:
+
+### Showcase 1
+![Face Detection Showcase 1](assets/image1.jpg)
+
+### Showcase 2
+![Face Detection Showcase 2](assets/image2.jpg)
+
+### Showcase 3
+![Face Detection Showcase 3](assets/image3.jpg)
+
+
 ## Contributing
 1. Fork this repository.
 2. Create a new branch:
