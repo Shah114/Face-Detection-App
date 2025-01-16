@@ -70,3 +70,10 @@ This application leverages advanced deep learning models to perform real-time fa
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+- [Hugging Face](https://huggingface.co/) for hosting the YOLOv8 face detection model.
+- [Streamlit](https://streamlit.io/) for the interactive UI framework.
+
+---
+Feel free to contact me at i.shahbazov12@gmail.com for any questions or suggestions.
