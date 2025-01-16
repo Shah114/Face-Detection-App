@@ -57,13 +57,13 @@ This application leverages advanced deep learning models to perform real-time fa
 Here are some examples of the Face Detection App in action:
 
 ### Showcase 1
-![Face Detection Showcase 1](assets/image1.jpg)
+![Face Detection Showcase 1](FaceDetection/assets/image1.jpg)
 
 ### Showcase 2
-![Face Detection Showcase 2](assets/image2.jpg)
+![Face Detection Showcase 2](FaceDetection/assets/image2.jpg)
 
 ### Showcase 3
-![Face Detection Showcase 3](assets/image3.jpg)
+![Face Detection Showcase 3](FaceDetection/assets/image3.jpg)
 
 
 ## Contributing
