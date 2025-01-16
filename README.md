@@ -19,3 +19,21 @@ This application leverages advanced deep learning models to perform real-time fa
   - `ultralytics`
   - `supervision`
   - `pillow`
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/face-detection-app.git
+   cd face-detection-app
+   ```
+
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
