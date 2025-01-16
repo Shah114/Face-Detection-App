@@ -47,3 +47,7 @@ This application leverages advanced deep learning models to perform real-time fa
 2. Open the link provided in the terminal (e.g., `http://localhost:8501`) in your web browser.
 
 3. Upload an image to detect faces.
+
+## Files
+- `app.py`: The main Streamlit app script.
+- `requirements.txt`: List of dependencies required for the project.
